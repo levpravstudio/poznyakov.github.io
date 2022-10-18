@@ -4,4 +4,4 @@ Photo check
 ![alt text](https://github.com/levpravstudio/poznyakovENG/blob/main/Img/wdaf_install.gif?raw=true)
 
 
-![[Manuals/Img/image.jpg]]
+![[Manuals/Img/image.png]]
